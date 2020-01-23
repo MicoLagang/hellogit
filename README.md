@@ -13,3 +13,9 @@
 ```java
 System.out.print("This is a Java Code");
 ```
+
+<html>
+    <body>
+        <h1>This is a html code.</h1>
+    </body>
+</html>
