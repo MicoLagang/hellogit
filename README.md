@@ -9,3 +9,7 @@
 > git commit -m ""
 > git push -u origin master
 ```
+
+```java
+System.out.print("This is a Java Code");
+```
